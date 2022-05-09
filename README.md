@@ -4,9 +4,10 @@
 진짜 개발 업무를 좋아하여 12년 인사 및 노무 경력에서 신입으로 개발 업무를 지원하는 늦깍이 지원자 입니다
 
 <h3>👍 프로젝트</h3>
-울산KH정보교육원을 통하여 '독서기록 서비스'를 제공하는 팀프로젝트를 수행하고 그 중에서 회원CRUD를 진행하였습니다.<br> 
-SpringBoot Security 를 이용하여 DB 암호화 기능을 적용하였으며, Oracle 18c XE 에서 정규식을 이용한 제약조건 등록과<br>
-프로시저 및 스케줄러 기본 기능 사용하였습니다.<br>
+울산KH정보교육원을 통하여 '독서기록 서비스'를 제공하는 팀프로젝트를 수행하고 그 중에서 회원CRUD를<br>
+진행하였습니다.<br> 
+SpringBoot Security 를 이용하여 DB 암호화 기능을 적용하였으며, Oracle 18c XE 에서 정규식을 이용한<br>
+제약조건 등록과 프로시저 및 스케줄러 기본 기능 사용하였습니다.<br>
 <a href="https://progdper.github.io/profile/download/220430_팀프로젝트_개인용.pdf">[팀 프로젝트 중 담당 업무 PDF 다운로드]<br>
 <a href="https://www.youtube.com/embed/8d9bQQR2sVk" >[팀 프로젝트 중 담당 업무 동영상]
 
