@@ -7,7 +7,7 @@
 울산KH정보교육원을 통하여 '독서기록 서비스'를 제공하는 팀프로젝트를 수행하고 그 중에서 회원CRUD를 진행하였습니다.<br> 
 SpringBoot Security 를 이용하여 DB 암호화 기능을 적용하였으며, Oracle 18c XE 에서 정규식을 이용한 제약조건 등록과<br>
 프로시저 및 스케줄러 기본 기능 사용하였습니다.<br>
-<a href="https://progdper.github.io/profile/download/220430_팀프로젝트_개인용.pdf" target='_blank'>[팀 프로젝트 중 담당 업무 PDF 다운로드(새창열기)]</<br>
+<a href="https://progdper.github.io/profile/download/220430_팀프로젝트_개인용.pdf" target='_blank'>[팀 프로젝트 중 담당 업무 PDF 다운로드(새창열기)]</a><br>
 <a href="https://www.youtube.com/embed/8d9bQQR2sVk" target='_blank'>[팀 프로젝트 중 담당 업무 동영상(새창열기)]
 
 <h3>✔ 목표</h3>
