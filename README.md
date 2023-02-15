@@ -1,37 +1,20 @@
 <h1 align="center"> 🎁 최재훈 자기소개서 </h1>
 
-<h3>✨ 새로운 시작</h3>
-진짜 개발 업무를 좋아하여 12년 인사 및 노무 경력에서 신입으로 개발 업무를 지원하는 늦깍이 지원자 입니다
+<h3>✨ 주니어 개발자 최재훈</h3>
+'why'라는 질문의 시작은 12년동안 잘하고 있는 업무 중에 시작되어 좋아하는 것을 업무로 잘하고 싶다는 결과를 가져왔습니다. 이를 위해 컴퓨터과학과를 다니면서 본업이 되었으면 좋겠다고 생각되어 국비지원 교육을 수료하고 응용SW엔지니어링의 길을 가고자 합니다.
 
-<h3>📚 훈련과정</h3>
-1. 훈련기관명 : 울산KH정보교육원<br>
-2. 훈련과정명 : (디지털컨버전스)멀티 디바이스 융합 자바(Java) 디지털 컨버전스 과정<br>
-3. NCS: 응용SW엔지니어링<br>
-4. 훈련기간 : 2021-11-08 ~ 2022-04-13
+<h3>🛠 사용언어</h3>
+1. 기획 : 지속적으로 의사소통을 하여 효율적으로 표현 할 수 있도록 방법을 만듭니다.<br> 
+2. 마크업 : 크로스브라우징을 할 수 있도록 HTML5, SCSS(CSS), JS(Jquery) 활용합니다.<br>
+3. 백엔드 : Java를 시작으로 nodejs와 Django로 필요기능을 구현하며 유연하게 사용 할 수 있도록 연구합니다.<br>
+4. 프론트엔드 : React를 유연하게 사용 할 수 있도록 연구합니다.
 
-<h3>👍 프로젝트</h3>
-울산KH정보교육원을 통하여 '독서기록 서비스'를 제공하는 팀프로젝트를 수행하고 그 중에서 회원CRUD를<br>
-진행하였습니다.<br> 
-SpringBoot Security 를 이용하여 DB 암호화 기능을 적용하였으며, Oracle 18c XE 에서 정규식을 이용한<br>
-제약조건 등록과 프로시저 및 스케줄러 기본 기능 사용하였습니다.<br>
-<a href="https://progdper.github.io/profile/download/220430_팀프로젝트_개인용.pdf">[팀 프로젝트 중 담당 업무 PDF 다운로드]<br>
-<a href="https://www.youtube.com/embed/8d9bQQR2sVk" >[팀 프로젝트 중 담당 업무 동영상]
 
 <h3>✔ 목표</h3>
 1. 프론트앤드 : 시각적으로 쉽고 빠르게 차별화된 서비스를 접근 할 수 있도록 방법과 기술을 구현하고 싶습니다.<br>
 2. 백엔드 : 사용하는 서비스의 개발과 데이터 분석 및 안정화등을 통하여 새로운 방향과 방법을 제시하고 싶습니다.<br>
 3. 기획업무 : 차별화된 플랫폼을 계획하여 새로운 가치 창출을 하고 싶습니다.
 
-<h3>🛠 사용언어</h3>
-<div>
-<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Thymeleaf-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-</div>
 
 <h3>😊 저를 더 알고싶다면</h3>
 <a href="https://progdper.github.io/"> 
